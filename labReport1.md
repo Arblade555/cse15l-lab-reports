@@ -70,6 +70,7 @@ If we try to use `cat` on a directory it'll give us an error message no matter w
 Using `cat` by itself
 
 Something really fun happens if we use `cat` without any `arguments`.
+
 ![Image](cat_nothing.png)
 
 The terminal goes blank and we can start typing. If we type something and press `enter` the terminal will copy the text and display it underneath the one we typed ourselves. I am in the default `directory` `/home`. This is the intended output of the command. In order to exit and stop typing we can just press `ctrl` + `c`.
