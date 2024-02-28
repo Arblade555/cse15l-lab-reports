@@ -68,13 +68,13 @@ ex.
 
 To move up we use `k`, to move down we use `j`, to move left we use `h` and finally to move right we use `l`
 In order to arrive to the faulty part of the code we need to input as follows:
-`<down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, 
-<down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>, <down>`
+`down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, down, 
+down, down, down, down, down, down, down, down, down, down, down, down, down, down`
 
 ![Image](lineArrived.png)
 
 We have arrive at the line where the code is faulty, we now need to change `index1` to `index2`. To do this we need to move as follows:
-`<right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>, <right>`
+`right, right, right, right, right, right, right, right, right, right, right`
 We have arrived at the character we need to change. 
 
 ![Image](charArrived.png)
@@ -90,7 +90,7 @@ Now we can add the 2 in order to fix the code by pressing `i` which will let us 
 ![Image](ohDiosMiosEsElNumeroDOS.png)
 
 
-To exit editing mode we need to press the `<esc>` key. Now when we are out we need to save and quit. We do this by pressing `<SHIFT> + <;>` followed by `<w>, <q>` if we did this correctly we should be outside the file and back were we started
+To exit editing mode we need to press the `esc` key. Now when we are out we need to save and quit. We do this by pressing `SHIFT + ;` followed by `w, q` if we did this correctly we should be outside the file and back were we started
 
 ![Image](outsideTheMatrix.png)
 
@@ -112,8 +112,8 @@ ex.
 
 ![Image](gitPush.png)
 
-Once we have pushed we can commit. Once we type `git commit ListExamples.java` in the terminal, we are taken to a weird place. This is just the place to put a commit message. We can put anything. We just need to press `<i>` and start typing.
-Once we are done we can press `<ESC>` to get out of editing. After that we can just use the same sequence we used to exit out of the `ListExamples.java`. That being `<SHIFT> + <;>` followed by `<w>, <q>`. We should have succesfully commited the file with a commit message
+Once we have pushed we can commit. Once we type `git commit ListExamples.java` in the terminal, we are taken to a weird place. This is just the place to put a commit message. We can put anything. We just need to press `i` and start typing.
+Once we are done we can press `ESC` to get out of editing. After that we can just use the same sequence we used to exit out of the `ListExamples.java`. That being `SHIFT + ;` followed by `w, q`. We should have succesfully commited the file with a commit message
 ex.
 
 ![Image](committed.png)
