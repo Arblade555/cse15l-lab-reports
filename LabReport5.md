@@ -46,6 +46,6 @@ Here are the images:
 
 REFLECTION
 ==========
-Honsetly everything I learned in class was new. From the bash commands to how to make an autograder. I still struggle a bit with bash but this has been a great learning experience for me. I will definitely need to use this knowledge when I forget everything about it.
+Honestly everything I learned in class was new. From the bash commands to how to make an autograder. I still struggle a bit with bash but this has been a great learning experience for me. I will definitely need to use this knowledge when I forget everything about it.
 The instructor was really cool and the TAs too! Huge shoutouts to Yasushi for giving a TedTalk on which CS classes are good, which are difficult and what classes are chill.
 Thanks for the class, hope you have a great day!
